@@ -1,0 +1,28 @@
+.authNavbar-container{
+    height: 100%;
+}
+
+.authNavbar-header{
+    border: none;
+    border-radius: 5px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#0f0d13;
+    font-size: 20px;
+    font-family: Canbria;
+}
+.weblogo{
+    width: 70px;
+}
+.authNavbar-header>a{
+    text-decoration: none;
+    color: white;
+}
+.authNavbar-footer{
+    padding-top: 15px;
+    height: 500px;
+    border-top: lightgray;
+    background-color:#0f0d13 ;
+}

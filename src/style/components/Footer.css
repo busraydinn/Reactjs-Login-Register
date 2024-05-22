@@ -1,0 +1,32 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-body-menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+.footer-header{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-header>button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border:1px solid lightblue;
+}
+.footer-body-menu>a{
+    text-decoration: none;
+}
+.footer-f>img{
+    width: 80px;
+}
