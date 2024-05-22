@@ -1,4 +1,4 @@
 # Giriş Sayfası:
-![GirişSayfası](../frontend/src/images/GirisSayfası.png) 
+![GirişSayfası](/frontend/src/images/GirisSayfası.png) 
 # Kayıt  Sayfası
-![KayıtSayfası](../frontend/src/images/KayıtolSayfası.png)
+![KayıtSayfası](/frontend/src/images/KayıtolSayfası.png)
